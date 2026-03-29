@@ -16,6 +16,8 @@ The best-performing model is saved for downstream use in an API and Flutter appl
 - Flutter SDK installed ([Download](https://flutter.dev/docs/get-started/install))
 - Android emulator/device or iOS simulator/device
 
+- Demo video : https://youtu.be/yIhElldM9s0?si=iUCe3P6Smx2Uo0bm
+
 ### Steps
 1. Navigate to the Flutter app directory:
    ```bash
